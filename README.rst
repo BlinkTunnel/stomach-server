@@ -7,13 +7,8 @@ It can mock GET, POST, PUT, PATCH, DELETE and some more rarely used HTTP methods
 
 Build status at `Travis CI <http://travis-ci.org/>`_: |travis|
 
-.. |travis| image:: https://travis-ci.org/tomashanacek/mock-server.png?branch=master
+.. |travis| image:: https://travis-ci.org/BlinkTunnel/stomach-server.svg?branch=master
     :target: https://travis-ci.org/tomashanacek/mock-server
-
-DEMO
-====
-
-http://demo.mockapi.org/__manage
 
 Installation
 ============
@@ -69,6 +64,10 @@ Features
 - Variables in url path.
 - Simple api documentation (markdown).
 - Api authentication (HTTP Basic authentication).
+
+TODO
+====
+- Add multi-response for an api(TODO)
 
 
 Format
